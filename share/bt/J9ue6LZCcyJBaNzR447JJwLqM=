@@ -1,0 +1,14 @@
+{
+  "$entity": {
+    "value": "sample.validoc.org"
+  },
+  "$locality": {
+    "value": "0"
+  },
+  "$hash": {
+    "value": "7814hIeYGRAqWvUYPrHiDZePqcsEZbQ="
+  },
+  "$reference": {
+    "value": "validoc://sample.validoc.org/0/7814hIeYGRAqWvUYPrHiDZePqcsEZbQ="
+  }
+}
